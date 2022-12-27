@@ -1,5 +1,6 @@
 # Pokémon
 ポケモンのデータベースです。
+![ポケモンロゴ](/images/pokemonlogo.PNG "pokemonlogo")
 
 ## 書いてあるもの<br>
 ・図鑑番号<br>
@@ -39,4 +40,5 @@
 ・ヒスイ地方    899〜905<br>
 ・パルデア地方  906〜1010?<br>
 
+ポケモン徹底攻略
 https://yakkun.com/
