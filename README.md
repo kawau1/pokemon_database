@@ -1,6 +1,6 @@
 # Pokémon Database
 
-ポケモンのデータベースです。
+ポケモンのデータベースです。<br>
 <span style="color: red; ">※このデータベースは未完成です。完成に向けてご協力をお願いします。</span>
 ![ポケモンロゴ](/images/pokemonlogo.PNG "pokemonlogo")
 
